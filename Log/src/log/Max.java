@@ -28,8 +28,4 @@ public class Max {
 		return instance;
 	}
 	
-	// method to log MSGS
-	public void log(String part) {
-		System.out.println(part);
-	}
 }
